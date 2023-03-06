@@ -27,3 +27,16 @@ Vi anvender en slags MVC-pattern:
 
 ![img_1.png](img_1.png)
 
+
+### Oprette Git-repo
+```shell
+
+git init
+git add .
+git add . 
+git commit -m "first commit"
+git remote add origin https://github.com/RasmanHuhu/intranet.git
+git push -u origin main
+
+```
+![img_2.png](img_2.png)
